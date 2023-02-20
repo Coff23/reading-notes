@@ -3,7 +3,7 @@ My reading journal for Code Fellows
 
 My name is Josh and I do not know much about javascript, YET!
 
-[Link to my github portfolio:] (https://github.com/Coff23)
+[Link to my github portfolio:](https://github.com/Coff23)
 
 ##Growth Mindset
 
