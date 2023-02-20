@@ -1,7 +1,7 @@
 
-#Class 102 notes
+# Class 102 notes
 
-##Markdown Questions
+## Markdown Questions
 
 What is it?
 
