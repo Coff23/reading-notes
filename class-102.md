@@ -21,7 +21,7 @@ Heading?
 
 Bold or italicized?
 
-*
+"*"
 
 Link?
 
@@ -29,5 +29,5 @@ Link?
 
 List?
 
-- * =
+"-" "*" "="
 
