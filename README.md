@@ -5,7 +5,7 @@ My reading journal for Code Fellows
 
 Link to my github portfolio: [github](https://github.com/Coff23)
 
-##Growth Mindset 
+## Growth Mindset 
 
 What it means to me is to observe learning as if the sky is limit and not think about things that you can not do but to look at learning as you get out what you put in.
 
