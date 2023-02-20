@@ -5,29 +5,29 @@
 
 What is it?
 
-Markdown is a simpler way to make websites.
+- Markdown is a simpler way to make websites.
 
 Why use it?
 
-Markdown can be used for everything.
+- Markdown can be used for everything.
 
 Heading?
 
-"#"
+- "#"
 
-1
+- 1
 
-6
+- 6
 
 Bold or italicized?
 
-"*"
+- "*"
 
 Link?
 
-[Link](URL)
+- [Link](URL)
 
 List?
 
-"-" "*" "="
+- "-" "*" "="
 
