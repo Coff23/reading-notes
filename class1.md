@@ -25,7 +25,7 @@ Bold or italicized?
 
 Link?
 
-- [Link](URL)
+- "[Link](URL)"
 
 List?
 
