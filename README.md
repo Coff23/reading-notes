@@ -12,7 +12,7 @@ My reading journal for Code Fellows
 
 - [Class 2](https://coff23.github.io/reading-notes/class2)
 
-- [Class 3]()
+- [Class 3](https://coff23.github.io/reading-notes/class3)
 
 - [Class 4](/home/coff23/projects/courses/code-102/notes-website/reading-notes/class4.md)
 
