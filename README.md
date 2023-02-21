@@ -16,13 +16,13 @@ My reading journal for Code Fellows
 
 - [Structure web pages with HTML](https://coff23.github.io/reading-notes/class4)
 
-- [Design web pages with CSS](/home/coff23/projects/courses/code-102/notes-website/reading-notes/class5.md)
+- [Design web pages with CSS](https://coff23.github.io/reading-notes/class5)
 
-- [Dynamic web pages with JavaScript](/home/coff23/projects/courses/code-102/notes-website/reading-notes/class6.md)
+- [Dynamic web pages with JavaScript](https://coff23.github.io/reading-notes/class6)
 
-- [Programming with JavaScript](/home/coff23/projects/courses/code-102/notes-website/reading-notes/class7.md)
+- [Programming with JavaScript](https://coff23.github.io/reading-notes/class7)
 
-- [Operators and Loops](/home/coff23/projects/courses/code-102/notes-website/reading-notes/class8.md)
+- [Operators and Loops](https://coff23.github.io/reading-notes/class8)
 
 ### Code 201 Reading Notes
 
