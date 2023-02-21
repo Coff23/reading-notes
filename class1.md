@@ -1,5 +1,5 @@
 
-# Class 102 notes
+# Class 1 notes
 
 ## Markdown Questions
 

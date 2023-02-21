@@ -1,14 +1,59 @@
 # reading-notes
+
 My reading journal for Code Fellows
 
 ***My name is Josh and I do not know much about javascript, YET!***
 
+## Table of Contents
+
+### Code 102 Reading Notes
+
+[Class 1](https://coff23.github.io/reading-notes/class1)
+
+[Class 2]()
+
+[Class 3]()
+
+[Class 4](/home/coff23/projects/courses/code-102/notes-website/reading-notes/class4.md)
+
+[Class 5](/home/coff23/projects/courses/code-102/notes-website/reading-notes/class5.md)
+
+[Class 6](/home/coff23/projects/courses/code-102/notes-website/reading-notes/class6.md)
+
+[Class 7](/home/coff23/projects/courses/code-102/notes-website/reading-notes/class7.md)
+
+[Class 8](/home/coff23/projects/courses/code-102/notes-website/reading-notes/class8.md)
+
+### Code 201 Reading Notes
+
+[Class 1]()
+
+[Class 2]()
+
+[Class 3]()
+
+[Class 4]()
+
+[Class 5]()
+
+[Class 6]()
+
+[Class 7]()
+
+[Class 8]()
+
+[Class 9]()
+
+[Class 10]()
+
+[Class 11]()
+
+[Class 12]()
+
+[Class 13]()
+
+[Class 14]()
+
+[Class 15]()
+
 Link to my github portfolio: [github](https://github.com/Coff23)
-
-## Growth Mindset 
-
-What it means to me is to observe learning as if the sky is limit and not think about things that you can not do but to look at learning as you get out what you put in.
-
-1. *Always maintain a positive attitude when learning and practicing.*
-2. *Always come into class with a positive attitude and maintain that atittude through out the day.*
-3. *Remember that this career path is much better than my previous career path so sticking to it and learning is worth it.*
