@@ -26,34 +26,34 @@ My reading journal for Code Fellows
 
 ### Code 201 Reading Notes
 
-- [Class 1]()
+- [Class 1](https://coff23.github.io/reading-notes/201-class-1)
 
-- [Class 2]()
+- [Class 2](https://coff23.github.io/reading-notes/201-class-2)
 
-- [Class 3]()
+- [Class 3](https://coff23.github.io/reading-notes/201-class-3)
 
-- [Class 4]()
+- [Class 4](https://coff23.github.io/reading-notes/201-class-4)
 
-- [Class 5]()
+- [Class 5](https://coff23.github.io/reading-notes/201-class-5)
 
-- [Class 6]()
+- [Class 6](https://coff23.github.io/reading-notes/201-class-6)
 
-- [Class 7]()
+- [Class 7](https://coff23.github.io/reading-notes/201-class-7)
 
-- [Class 8]()
+- [Class 8](https://coff23.github.io/reading-notes/201-class-8)
 
-- [Class 9]()
+- [Class 9](https://coff23.github.io/reading-notes/201-class-9)
 
-- [Class 10]()
+- [Class 10](https://coff23.github.io/reading-notes/201-class-10)
 
-- [Class 11]()
+- [Class 11](https://coff23.github.io/reading-notes/201-class-11)
 
-- [Class 12]()
+- [Class 12](https://coff23.github.io/reading-notes/201-class-12)
 
-- [Class 13]()
+- [Class 13](https://coff23.github.io/reading-notes/201-class-13)
 
-- [Class 14]()
+- [Class 14](https://coff23.github.io/reading-notes/201-class-14)
 
-- [Class 15]()
+- [Class 15](https://coff23.github.io/reading-notes/201-class-15)
 
 Link to my github portfolio: [github](https://github.com/Coff23)
