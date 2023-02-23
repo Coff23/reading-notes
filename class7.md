@@ -9,6 +9,6 @@
 
 - when that function is told to activate example some presses a button
 
-- parameters
+- name and may contain parameter names
 
 [Home](https://coff23.github.io/reading-notes/)
