@@ -9,6 +9,6 @@
 
 - when that function is told to activate example some presses a button
 
-- name and may contain parameter names
+- name, parameter names, and statements that define function enclosed in curl brackets
 
 [Home](https://coff23.github.io/reading-notes/)
