@@ -26,7 +26,7 @@ My reading journal for Code Fellows
 
 ### Code 201 Reading Notes
 
-- [Class 1](https://coff23.github.io/reading-notes/201-class-1)
+- [Class 1](https://coff23.github.io/reading-notes/201-class-01)
 
 - [Class 2](https://coff23.github.io/reading-notes/201-class-2)
 
