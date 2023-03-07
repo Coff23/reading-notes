@@ -28,7 +28,7 @@ My reading journal for Code Fellows
 
 - [Class 1](https://coff23.github.io/reading-notes/201-class-01)
 
-- [Class 2](https://coff23.github.io/reading-notes/201-class-2)
+- [Class 2](https://coff23.github.io/reading-notes/201-class-02)
 
 - [Class 3](https://coff23.github.io/reading-notes/201-class-3)
 
