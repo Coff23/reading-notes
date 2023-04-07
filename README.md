@@ -6,7 +6,7 @@ My reading journal for Code Fellows
 
 ## Table of Contents
 
-### Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 - [Learning Markdown](https://coff23.github.io/reading-notes/class1)
 
@@ -24,7 +24,7 @@ My reading journal for Code Fellows
 
 - [Operators and Loops](https://coff23.github.io/reading-notes/class8)
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 - [Class 1](https://coff23.github.io/reading-notes/201-class-01)
 
@@ -55,5 +55,9 @@ My reading journal for Code Fellows
 - [Class 14](https://coff23.github.io/reading-notes/201-class-14)
 
 - [Class 15](https://coff23.github.io/reading-notes/201-class-15)
+
+## Code 301 - Intermediate Software Development
+
+## Code 401 - Advanced Software Development
 
 Link to my github portfolio: [github](https://github.com/Coff23)
