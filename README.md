@@ -58,6 +58,8 @@ My reading journal for Code Fellows
 
 ## Code 301 - Intermediate Software Development
 
+- [Class 1](https://coff23.github.io/reading-notes/301-class-01)
+
 ## Code 401 - Advanced Software Development
 
 Link to my github portfolio: [github](https://github.com/Coff23)
