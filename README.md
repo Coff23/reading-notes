@@ -70,6 +70,8 @@ My reading journal for Code Fellows
 
 - [Class 7](https://coff23.github.io/reading-notes/301-class-07)
 
+- [Class 10](https://coff23.github.io/reading-notes/301-class-10)
+
 ## Code 401 - Advanced Software Development
 
 Link to my github portfolio: [github](https://github.com/Coff23)
