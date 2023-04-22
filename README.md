@@ -64,11 +64,17 @@ My reading journal for Code Fellows
 
 - [Class 3](https://coff23.github.io/reading-notes/301-class-03)
 
+- [Class 4](https://coff23.github.io/reading-notes/301-class-04)
+
 - [Class 5](https://coff23.github.io/reading-notes/301-class-05)
 
 - [Class 6](https://coff23.github.io/reading-notes/301-class-06)
 
 - [Class 7](https://coff23.github.io/reading-notes/301-class-07)
+
+- [Class 8](https://coff23.github.io/reading-notes/301-class-08)
+
+- [Class 9](https://coff23.github.io/reading-notes/301-class-09)
 
 - [Class 10](https://coff23.github.io/reading-notes/301-class-10)
 
