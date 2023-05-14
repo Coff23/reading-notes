@@ -90,4 +90,6 @@ My reading journal for Code Fellows
 
 ## Code 401 - Advanced Software Development
 
+- [Growth Mindset](https://coff23.github.io/reading-notes/401-growth-mindset)
+
 Link to my github portfolio: [github](https://github.com/Coff23)
