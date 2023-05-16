@@ -94,6 +94,8 @@ My reading journal for Code Fellows
 
 - [Terminal](https://coff23.github.io/reading-notes/terminal)
 
+- [Engineering Reading](https://coff23.github.io/reading-notes/engineering-reading)
+
 - [Class 15](https://coff23.github.io/reading-notes/401-class-01)
 
 Link to my github portfolio: [github](https://github.com/Coff23)
