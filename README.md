@@ -98,6 +98,8 @@ My reading journal for Code Fellows
 
 - [Data Structures and Algorithms](https://coff23.github.io/reading-notes/data-structures-and-algorithms)
 
-- [Class 15](https://coff23.github.io/reading-notes/401-class-01)
+- [Class 01](https://coff23.github.io/reading-notes/401-class-01)
+
+- [Class 02](https://coff23.github.io/reading-notes/401-class-02)
 
 Link to my github portfolio: [github](https://github.com/Coff23)
