@@ -96,6 +96,8 @@ My reading journal for Code Fellows
 
 - [Engineering Reading](https://coff23.github.io/reading-notes/engineering-reading)
 
+- [Data Structures and Algorithms](https://coff23.github.io/reading-notes/data-structures-and-algorithms)
+
 - [Class 15](https://coff23.github.io/reading-notes/401-class-01)
 
 Link to my github portfolio: [github](https://github.com/Coff23)
