@@ -106,4 +106,6 @@ My reading journal for Code Fellows
 
 - [Class 04](https://coff23.github.io/reading-notes/401-class-04)
 
+- [Class 06](https://coff23.github.io/reading-notes/401-class-06)
+
 Link to my github portfolio: [github](https://github.com/Coff23)
