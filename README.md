@@ -114,4 +114,6 @@ My reading journal for Code Fellows
 
 - [Project discussion Clas 09](https://coff23.github.io/reading-notes/401-project-discussion-09)
 
+- [Class 11](https://coff23.github.io/reading-notes/401-class-11)
+
 Link to my github portfolio: [github](https://github.com/Coff23)
