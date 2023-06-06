@@ -122,4 +122,6 @@ My reading journal for Code Fellows
 
 - [Class 14](https://coff23.github.io/reading-notes/401-class-14)
 
+- [Class 16](https://coff23.github.io/reading-notes/401-class-16)
+
 Link to my github portfolio: [github](https://github.com/Coff23)
